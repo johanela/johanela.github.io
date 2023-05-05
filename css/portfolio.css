@@ -5,10 +5,7 @@ grid-template-rows: 10% repeat(3, 1fr);
 grid-column-gap: 10px;
 grid-row-gap: 10px;
 
-img {
-    max-width: auto;
-    height: auto;
-  }
+
 	
 	
 .div1 { grid-area: 1 / 1 / 2 / 2; }
