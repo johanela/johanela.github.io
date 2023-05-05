@@ -12,12 +12,6 @@ grid-row-gap: 10px;
 .div4 { grid-area: 4 / 1 / 5 / 2; }
 
 
-img {
-    max-width: 50%;
-    height: auto;
-  }
-
-
   body {
     background-color: #ffffff;
     font-family: 'Ubuntu', 'Roboto', Arial, Helvetica, sans-serif;
